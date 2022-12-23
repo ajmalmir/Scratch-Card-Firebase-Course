@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "1001084791359",
+    "firebase_url": "https://fir-course-kehnu-default-rtdb.firebaseio.com",
+    "project_id": "fir-course-kehnu",
+    "storage_bucket": "fir-course-kehnu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001084791359:android:a4ab610d745924b187668a",
+        "android_client_info": {
+          "package_name": "com.example.scratch_screen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001084791359-7c7a2bdh791gvvq02pr840tnh401ftlg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATwooS-znc422bOtP3GL5NOogHWHQwhHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001084791359-7c7a2bdh791gvvq02pr840tnh401ftlg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1001084791359-ephijgsi1c06alqqfjkjg75imjs3ctot.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseCourse"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001084791359:android:505c6c8807e4f23d87668a",
+        "android_client_info": {
+          "package_name": "com.kehnu.firebase_course"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001084791359-69p37h7kskbe41bb17qjgcpdagg5d90a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kehnu.firebase_course",
+            "certificate_hash": "2282c681ef17ea61b9748a320ac5633adf98b184"
+          }
+        },
+        {
+          "client_id": "1001084791359-7c7a2bdh791gvvq02pr840tnh401ftlg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATwooS-znc422bOtP3GL5NOogHWHQwhHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001084791359-7c7a2bdh791gvvq02pr840tnh401ftlg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1001084791359-ephijgsi1c06alqqfjkjg75imjs3ctot.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseCourse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
